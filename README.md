@@ -1,0 +1,1 @@
+Dette blir mitt første prosjekt på veien til front-end-developer. Her skal jeg bygge en nettside med html og css.

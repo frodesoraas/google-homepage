@@ -1,0 +1,83 @@
+#innhold{
+	margin: auto;
+}
+#logo{
+	padding-top: 190px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+#sokeboks{
+	margin: auto;
+	width: 541px;
+	height: 38px;
+	border: 1px solid #d9d9d9
+}
+
+.soek{
+
+	width: 541px;
+	height: 38px;
+	border: 1px solid #d9d9d9
+}
+#knapper{
+	margin: auto;
+	width: 571px;
+	height: 58px;
+	padding-top: 19px;
+	text-align: center;
+}
+.submit {
+	background-color: #f1f1f1;
+	height: 34px;
+	margin-top: 11px;
+	margin-bottom: 11px;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding-left: 16px;
+	padding-right: 16px;
+	border: none;
+	font-size: 12px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	float: right;
+	line-height: 40px;	
+}
+li a{
+
+	display: inline-block;
+	height: 40px;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	padding-right: 27px;
+	font-family: arial sans-serif;
+	font-size: 13px;
+	color: rgb(102, 102, 102);
+}
+li a:hover{
+	text-decoration: underline;
+}
+#footer{
+	height: 40px;
+	background-color: #e4e4e4;
+	margin-top: 100px;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	margin-left: 0;
+}
+#footer-left{
+	float: left;
+}
+#footer-left li a{
+	padding-left: 27px;
+	padding-right: 0;
+}
+#footer-right{
+	float: right;
+}
